@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1045803117774",
+    "firebase_url": "https://takehomeassignment10mingkong.firebaseio.com",
+    "project_id": "takehomeassignment10mingkong",
+    "storage_bucket": "takehomeassignment10mingkong.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045803117774:android:dddbecee1eb7cde3",
+        "android_client_info": {
+          "package_name": "com.example.android.takehomeassignment10_mingkong"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1045803117774-46c3r3thpnusbha7u9a5votii7shu3r7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.takehomeassignment10_mingkong",
+            "certificate_hash": "17c186b5f57c3168f4aea771a982b7dd92255199"
+          }
+        },
+        {
+          "client_id": "1045803117774-e5ejkg1dv744qq3ed2bal0ij5fis5ic2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoGqxugTze9_PVgExr61PfGjCXBLEfG1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1045803117774-e5ejkg1dv744qq3ed2bal0ij5fis5ic2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
